@@ -32,7 +32,7 @@ export default {
       {
         key: "r",
         color: "red",
-        time: 5
+        time: 10
       },
       {
         key: "y",
@@ -42,7 +42,7 @@ export default {
       {
         key: "g",
         color: "green",
-        time: 3
+        time: 15
       }
     ];
 

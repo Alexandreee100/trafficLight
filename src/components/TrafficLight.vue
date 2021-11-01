@@ -96,7 +96,6 @@ export default {
       clearInterval(timerId);
       timerId = setInterval(() => {
         timeLeft.value -= 1;
-        console.log(timeLeft.value)
 
         if (timeLeft.value === 0) {
           shiftLightIndex();
